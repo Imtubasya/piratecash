@@ -1,6 +1,6 @@
 # PirateCash Tools
 <h1> BY : I'am Tubasya</h1>
-<br>Auto Spins piratecash, Auto claim Gold $ auto playing RPS.
+<br>Auto Spin, Auto claim Gold & Auto playing RPS.
 <h2>How to use</h2>
 <h3>Linux :</h3>
 <br>Enter the below command in the terminal :
