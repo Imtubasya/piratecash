@@ -1,6 +1,6 @@
 # PirateCash Tools
 <h1> BY : I'am Tubasya</h1>
-<br>Is a tool for bypassing Cloudflare that you can use to get the master IP of site server.
+<br>Auto Spins piratecash, Auto claim Gold $ auto playing RPS.
 <h2>How to use</h2>
 <h3>Linux :</h3>
 <br>Enter the below command in the terminal :
