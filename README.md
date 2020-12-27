@@ -5,17 +5,14 @@
 <h3>Linux :</h3>
 <br>Enter the below command in the terminal :
 <br><code>git clone https://github.com/Imtubasya/piratecash</code>
-<br>cd piratecash
-</code>
-<br>Install php :
-<br><code>git clone https://github.com/Imtubasya/piratecash</code>
+<br><code>cd piratecash</code>
 <br> Run :
 <br><code>php example.php</code>
 <br>Enter!
 
 <h3>Windows :</h3>
 <br>Enter the below command in the CMD :
-<br><code>php example.php</code>
+<br><code>php.exe example.php</code>
 <br>Enter!!
 <br><br>
 <h3>MY CHANNEL :</h3>
